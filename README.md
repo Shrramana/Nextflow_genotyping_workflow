@@ -1,4 +1,4 @@
-# Nextflow_project2
+# Nextflow Genotyping Workflow
 
 Assembly, QA and Genotyping
 
